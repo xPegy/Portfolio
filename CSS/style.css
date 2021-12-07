@@ -1,0 +1,186 @@
+ body {
+     font-family: 'Montserrat', sans-serif;
+     background-color: #F5F7FA;
+ }
+ 
+ .photo {
+     width: 100%;
+ }
+ /* Main */
+ 
+ .Main_content {
+     display: flex;
+     flex-direction: row-reverse;
+     width: 1200px;
+     background-color: #ffff;
+     margin: 40px auto;
+ }
+ 
+ .Main_content_section {
+     padding: 100px 90px;
+ }
+ 
+ .Main_content_title {
+     color: black;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 22px;
+     line-height: 27px;
+     margin-bottom: 10px;
+ }
+ /* About me */
+ 
+ .About_me {
+     margin-bottom: 40px;
+ }
+ 
+ .About_me_title {
+     font-style: normal;
+     font-weight: bold;
+     font-size: 14px;
+     line-height: 17px;
+     margin-bottom: 20px;
+     color: black;
+ }
+ 
+ .About_me_name {
+     font-style: normal;
+     font-weight: bold;
+     font-size: 45px;
+     line-height: 55px;
+     margin-bottom: 25px;
+     color: black;
+ }
+ 
+ .About_me_text {
+     width: 400px;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 14px;
+     line-height: 24px;
+     margin-bottom: 40px;
+     color: #595959;
+ }
+ /* Project */
+ 
+ .Project {}
+ 
+ .project_list {
+     padding: 0 0 0 20px;
+ }
+ 
+ .project_list_num {
+     font-style: normal;
+     font-weight: bold;
+     font-size: 14px;
+     line-height: 24px;
+     color: #000;
+ }
+ 
+ .project_list_mun_text {
+     font-style: normal;
+     font-weight: normal;
+     font-size: 14px;
+     line-height: 24px;
+     color: #595959;
+ }
+ /* Work expirience */
+ 
+ .Work_experience {
+     margin-top: 50px;
+ }
+ 
+ .Work_experience_title {
+     margin-bottom: 10px;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 16px;
+     line-height: 20px;
+     color: black;
+ }
+ 
+ .orange {
+     color: #FB6D3A;
+ }
+ 
+ .Education {}
+ /* Said bar section */
+ 
+ .Said_bar {
+     background-color: #1E2939;
+     width: 370px;
+     padding: 40px 0;
+ }
+ 
+ .My_contakts {
+     margin: 50px 0 0 40px;
+ }
+ 
+ .My_skill {
+     margin: 50px 0 0 40px;
+ }
+ 
+ .Soft_skills {
+     margin: 44px 0 0 40px;
+ }
+ 
+ .Said_title {
+     font-style: normal;
+     font-weight: bold;
+     font-size: 22px;
+     line-height: 27px;
+     color: white;
+     margin-bottom: 10px;
+ }
+ /* Contack section */
+ 
+ .Num_contacts {
+     font-style: normal;
+     font-weight: bold;
+     font-size: 14px;
+     line-height: 24px;
+     color: white;
+ }
+ 
+ .Num_contacts_style {
+     font-style: normal;
+     font-weight: normal;
+     font-size: 14px;
+     line-height: 24px;
+     color: #565E6A;
+     margin-left: 10px;
+ }
+ /* Tech skill */
+ 
+ .Skill_list {
+     padding-left: 18px;
+ }
+ 
+ .Skill_list_item {
+     color: #FB6D3A;
+ }
+ 
+ .Skill_list_item_text {
+     color: white;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 14px;
+     line-height: 24px;
+ }
+ /* Soft skill */
+ 
+ .Soft_list {
+     padding-left: 18px;
+ }
+ 
+ .Soft_list_item {
+     color: #FB6D3A;
+ }
+ 
+ .Soft_list_item_text {
+     font-style: normal;
+     font-weight: normal;
+     font-size: 14px;
+     line-height: 24px;
+     color: white;
+ }
