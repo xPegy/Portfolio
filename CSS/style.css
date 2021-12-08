@@ -2,7 +2,24 @@
      font-family: 'Montserrat', sans-serif;
      background-color: #F5F7FA;
  }
- 
+ .date {
+     font-style: normal;
+     font-weight: normal;
+     font-size: 12px;
+     line-height: 15px;
+     color: #A8A8A8;
+     margin-top: 10px;
+ }
+ .date_black {
+     font-style: normal;
+     font-weight: normal;
+     font-size: 12px;
+     line-height: 15px;
+     color: black;
+     margin-left: 5px;
+     margin-right: 5px;
+     margin-top: 10px;
+ }
  .photo {
      width: 100%;
  }
@@ -88,6 +105,7 @@
  
  .Work_experience {
      margin-top: 50px;
+     width: 535px;
  }
  
  .Work_experience_title {
@@ -102,8 +120,34 @@
  .orange {
      color: #FB6D3A;
  }
- 
- .Education {}
+ .work_item {
+     font-style: normal;
+     font-weight: normal;
+     font-size: 14px;
+     line-height: 24px;
+     color: #595959;
+     padding-left: 18px;
+
+ }
+ /*Education*/
+ .Education_title {
+     font-style: normal;
+     font-weight: bold;
+     font-size: 16px;
+     line-height: 20px;
+     color: #FB6D3A;
+ }
+ .Education {
+     margin-top: 40px;
+ }
+ .Education_titles {
+     font-style: normal;
+     font-weight: bold;
+     font-size: 14px;
+     line-height: 17px;
+     color: black;
+     margin-top: 10px;
+ }
  /* Said bar section */
  
  .Said_bar {
